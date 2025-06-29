@@ -24,7 +24,7 @@ function start() {
             hour++
             hours.innerHTML = hour;
         }
-    }, 10);
+    }, 1000);
 
 
 }
