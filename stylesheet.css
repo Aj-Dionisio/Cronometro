@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+    background: #000;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.colon{
+    margin: 25px 15px;
+}
+main, button{
+    font-size:10rem;
+}
+
+button{
+    padding: 50px;
+    border-radius: 10px;
+    border: solid 1px transparent;
+    color: #fff;
+    background: black;
+    
+}
+
+button:hover{
+    border: solid 1px white ;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
+#stopButton{
+    margin-left: 25px;
+}
