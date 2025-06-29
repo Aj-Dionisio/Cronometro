@@ -29,7 +29,8 @@ button{
 }
 
 button:hover{
-    border: solid 1px white ;
+    border: solid 1px white;
+    cursor: pointer;
 }
 
 .buttons{
